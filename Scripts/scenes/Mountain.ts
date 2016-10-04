@@ -4,7 +4,7 @@
 */
 //Author: Michael John Chua
 //Last Modified By: Michael John Chua
-//Node 3scene
+//Node 3 scene
 module scenes {
     export class Mountain extends objects.Scene {
 
